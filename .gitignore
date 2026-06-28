@@ -1,0 +1,47 @@
+# env file
+.env
+
+# ide
+.idea/
+.vscode/
+
+# binaries and artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.out
+coverage.*
+*.coverprofile
+profile.cov
+*.o
+*.ko
+*.obj
+*.elf
+*.ilk
+*.map
+*.exp
+*.lib
+*.a
+*.la
+*.lo
+*.gch
+*.pch
+*.d
+
+# go workspace file
+go.work
+go.work.sum
+
+# debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.dwo
